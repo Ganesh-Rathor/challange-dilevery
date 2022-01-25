@@ -1,0 +1,75 @@
+.body-t{
+  background-color: #d0fefe;
+}
+.main-div{
+  font-family: "Red Hat Display";
+  width: 330px;
+  height: 480px;
+  margin: 5% auto;
+  border-radius: 5%;
+  background-color: hsl(225, 100%, 98%);
+  text-align: center;
+}
+img{
+  width: 330px;
+  height: 160px;
+  border-top-left-radius: 5%;
+  border-top-right-radius: 5%;
+}
+h3{
+  margin: 10% auto 5%;
+  font-size: 1.5rem;
+  font-weight: 900;
+  color: hsl(223, 47%, 23%);
+}
+
+.buttona{
+  background-color: hsl(245, 75%, 52%);
+  padding: 10px 20%;
+  color: #fff;
+  font-weight: 600;
+  border-radius: 10px;
+  font-size: 11px;
+}
+
+.buttona:hover{
+  background-color: hsl(228, 45%, 44%);
+}
+
+.buttonb{
+  padding: 10px 20%;
+  color: hsl(224, 23%, 55%);
+  font-weight: 600;
+  border-radius: 10px;
+  font-size: 11px;
+  bac
+}
+.buttonb:hover{
+  color:  hsl(223, 47%, 23%);
+}
+h6{
+  font-family:'Red Hat Display', sans-serif;
+  font-weight: bold;
+
+}
+
+.t1{
+  margin-left: 2rem;
+  position: relative;
+  left: 30px;
+}
+.t2{
+  position: relative;
+  left:40px;
+}
+.t3{
+  position: relative;
+  left: 80px;
+}
+.t3:hover{
+  color:  hsl(245, 75%, 52%);
+}
+p{
+  font-size: 16px;
+  color: hsl(224, 23%, 55%);
+}
